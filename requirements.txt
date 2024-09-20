@@ -1,0 +1,13 @@
+Užduotis:
+
+- Atsidarykite svetainę (pvz., Delfi.lt, 15min.lt ar kitą, kurią dažniausiai lankote), ir išsirinkite patinkantį straipsnį.
+
+- Atsidarykite balso įrašymo programėlę (pvz., Audacity, Voice Recorder, Quicktime ar kitą) ir įrašykite 1–2 minučių garso įrašą skaitydami pasirinktą straipsnį.
+
+- Sukurkite Python projektą. Būtinos dalys: venv, requirements.txt.
+
+- Įgyvendinkite logiką, kuri pavers Jūsų garso įrašą į tekstą ("transcribe"). Galite pasirinkti bet kokį metodą. Interviu metu turėsite pagrįsti, kodėl pasirinkote būtent tokį sprendimą.
+
+- Įgyvendinkite logiką, kuri iš gauto teksto sugeneruos santrauką ("summary"), panaudojant LLM (Large Language Model). Galite pasirinkti bet kokį metodą. Interviu metu turėsite pagrįsti, kodėl pasirinkote būtent tokį sprendimą.
+
+- Rezultatu pateikite nuorodą į kodą (GitHub public repozitorija), nuorodą į straipsnį ir sugeneruotą santrauką.

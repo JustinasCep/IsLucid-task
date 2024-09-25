@@ -2,6 +2,9 @@ Užduotis:
 
 - Atsidarykite svetainę (pvz., Delfi.lt, 15min.lt ar kitą, kurią dažniausiai lankote), ir išsirinkite patinkantį straipsnį.
 
+Straipsnis: https://www.15min.lt/sportas/naujiena/autosportas/enefit-24h-elektromobiliu-lenktynes-tiesiogiai-naujienu-portale-15min-311-2301830
+
+
 - Atsidarykite balso įrašymo programėlę (pvz., Audacity, Voice Recorder, Quicktime ar kitą) ir įrašykite 1–2 minučių garso įrašą skaitydami pasirinktą straipsnį.
 
 - Sukurkite Python projektą. Būtinos dalys: venv, requirements.txt.
